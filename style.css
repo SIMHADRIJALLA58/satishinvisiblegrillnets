@@ -882,9 +882,15 @@ body {
   letter-spacing: 1px;
   margin-bottom: 20px;
 }
+#id1{
+    color:rgb(255, 255, 255);
+}
+#id2{
+    color:white;
+}
 
 .hero-heading span{
-  color: #48ea89;
+  color: #c00b0b;
   position: relative;
 }
 
@@ -1024,10 +1030,10 @@ body {
     left:0;
     width:100%;
     height:5px;
-    background:linear-gradient(
+    /* background:linear-gradient(
     90deg,
-    #ff4d4d,
-    #ff7b7b);
+    #e9e3e3,
+    #ff7b7b); */
 }
 
 /* ==========================
@@ -1170,7 +1176,7 @@ body {
 ========================== */
 
 .service-card:hover h3{
-    color:#e63946;
+    color:#c81423;
 }
 
 
