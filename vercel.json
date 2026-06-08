@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "satishinvisiblegrillnets.vercel.app"
+        }
+      ],
+      "destination": "https://satishinvisiblegrillnets.in/$1",
+      "permanent": true
+    }
+  ]
+}
